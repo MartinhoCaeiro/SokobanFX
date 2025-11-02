@@ -1,0 +1,3 @@
+Manifest-Version: Sokoban™ Final Edition
+Main-Class: pt.ipbeja.po2.sokoban2023.guiimages.StartJavaFXGUIImages
+
