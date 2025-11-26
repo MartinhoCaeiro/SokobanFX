@@ -128,3 +128,9 @@ Contributions are welcome. If you want to add features, levels, or fixes:
 2. Create a feature branch.
 3. Make your changes, add tests if applicable.
 4. Open a pull request describing your changes.
+
+---
+
+## License
+
+- This repository is licensed under the GNU General Public License v3.0 (GPL-3.0).
